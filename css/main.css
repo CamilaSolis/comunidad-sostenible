@@ -1,0 +1,274 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/*Para centrar*/
+  .column.large-centered,
+  .columns.large-centered {
+    margin-left: auto;
+    margin-right: auto;
+    float: none !important;
+  }
+ /*Para centrar*/
+ .menu{
+ 	background-color: white;
+ 	text-align: center;
+ }
+ .logo{
+ 	width: 100%;
+ 	margin: 10px 0;
+ }
+ .links a{
+ 	font-size: 20px;
+ 	display: inline-block;
+ 	padding: 0 30px;
+ 	margin:60px 0;
+ 	color: gray;
+ 	text-decoration: none;
+ }
+ .borde{
+ 	border-right: 1px gray solid;
+ }
+ .planta1{
+	background-image: url(../img/semilla.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0 -200px;
+	height: 500px;
+ }
+ .ftext1{
+ 	background-color:#f2f2f2; 
+ }
+ .text1{
+ 	text-align: center;
+ 	color:gray;
+ 	font-size: 16px;
+ 	margin: 80px 0;
+ }
+ .vision{
+ 	text-align: center;
+ 	padding: 40px;
+ }
+ .vimg{
+ 	width: 180px;
+ 	margin:10px;
+ }
+ .vtitulo{
+ 	font-size: 25px;
+ 	color:black;
+ 	margin: 5px;
+ }
+ .vtext{
+ 	font-size: 16px;
+ 	color:black;
+ 	margin:10px 0;
+ }
+ .meto1{
+ 	background-image: url(../img/metodo.JPG);
+ 	height: 485px;
+ 	background-size: 110%;
+ 	background-repeat: no-repeat;
+ }
+  .meto2{
+ 	background-image: url(../img/fondo.jpg);
+ 	height: 485px;
+ 	background-size: 130%;
+ 	background-repeat: no-repeat;
+ 	text-align: center;
+ 	padding: 0 80px;
+ }
+ .meto2 img{
+ 	width: 60px;
+ 	margin: 120px 0 20px 0;
+ }
+ .metotitulo{
+ 	color:white;
+ 	font-size: 25px;
+ }
+ .metotext{
+ 	margin:20px 0;
+ 	color:white;
+ 	font-size: 16px;
+ }
+ .servtitulo{
+ 	color:black;
+ 	font-size: 25px;
+ 	margin:80px 0 20px 0;
+ }
+ .servtext{
+ 	color:black;
+ 	font-size: 16px;
+ 	margin-bottom: 30px;
+ }
+ .serv2{
+ 	text-align: center;
+ 	padding: 0 70px;
+ }
+ .serv2 img{
+ 	width: 140px;
+ 	margin: 20px 0;
+ }
+ .serv2titulo{
+ 	color:#5c7f36;
+ 	font-size: 20px;
+ 	margin-bottom: 20px;
+ }
+ .serv2text{
+ 	color:black;
+ 	font-size: 16px;
+ 	margin-bottom:40px;
+ }
+ .green{
+ 	background-color:#5c7f36;
+ }
+ .pimg{
+ 	background-image: url(../img/fotos/img-0352.JPG);
+ 	background-size: 100%;
+ 	background-repeat: no-repeat;
+ 	height: 450px;
+ }
+  .pimg2{
+ 	background-image: url(../img/fotos/img-9246.JPG);
+ 	background-size: 100%;
+ 	background-repeat: no-repeat;
+ 	height: 450px;
+ }
+ .ptitulo{
+ 	text-align: center;
+ 	font-size: 30px;
+ 	color:white;
+ 	margin:60px 0 40px 0;
+ }
+ .ptext{
+ 	padding: 0 25px;
+ 	color:white;
+ }
+ .greentitulo{
+ 	font-size: 25px;
+ 	margin-bottom: 10px;
+ }
+ .greensubtitulo{
+ 	font-size: 20px;
+ 	margin-bottom: 10px;
+ }
+ .greentext{
+ 	font-size: 15px;
+ }
+ .etitulo{
+ 	font-size: 30px;
+ 	color:#5c7f36;
+ 	margin: 60px 0 20px 0;
+ }
+ .equip1, .equip2{
+ 	text-align: center;
+ 	padding: 70px;
+ }
+ .equipfoto{
+ 	width: 250px;
+ 	border-radius: 250px;
+ }
+ .equipnombre{
+ 	margin:20px 0;
+ 	font-size: 25px;
+ 	color: black;
+ }
+ .equipsub{
+ 	font-size: 16px;
+ 	margin-bottom: 3px;
+ }
+ .equiptext{
+ 	font-size: 15px;
+ 	color:black;
+ }
+ .red{
+ 	width: 40px;
+ 	margin:30px 4px 40px 4px;
+ }
+ .blog{
+ 	background-image: url(../img/fondo2.jpg);
+ }
+ .slider img{
+ 	width: 50px;
+ 	margin:150px auto;
+ }
+ .slider{
+ 	text-align: center;
+ }
+ .blogtitulo{
+ 	font-size: 25px;
+ 	text-align: center;
+ 	margin: 40px 0;
+ }
+ .post2{
+ 	margin:0 15px;
+ }
+ .post2 a{
+ 	color:gray;
+ 	text-decoration: none;
+ }
+ .post2 a:hover{
+ 	color:#5c7f36;;
+ }
+ .bfoto{
+ 	background-size: 100%;
+ 	background-image: url(../img/fotos/img-0400.JPG);
+ 	background-repeat: no-repeat;
+ 	height: 200px;
+ }
+ .bfoto2{
+ 	background-size: 100%;
+ 	background-image: url(../img/fotos/img-9246.jpg);
+ 	background-repeat: no-repeat;
+ 	height: 200px;
+ }
+ .btitulo{
+ 	font-size: 25px;
+ }
+ .bfecha{
+ 	font-size: 20px;
+ }
+ .btext{
+ 	font-size: 15px;
+ }
+ .sigue{
+ 	color: white;
+ 	font-size: 25px;
+ 	border: 1px white solid;
+ 	padding: 15px;
+ 	height: 250px;
+ 	margin-bottom:50px;
+ }
+ .blog2{
+	margin-top:50px;
+ }
+ .gray{
+ 	background-color: gray;
+ }
+.sigue img{
+	float: right;
+	width:45px;
+}
+.foot{
+	background-color: white;
+	padding: 40px 0;
+}
+.foot1{
+	color: gray;
+	font-size: 12px;
+}
+.lab a{
+	color:#faa819;
+	font-size: 12px;
+	text-decoration: none;
+}
+.der{
+	text-align: right;
+}
+.foot2{
+	color: gray;
+	font-size: 12px;
+}
+.tel{
+	font-size: 12px;
+}
